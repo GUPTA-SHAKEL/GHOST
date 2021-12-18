@@ -62,7 +62,7 @@ $ git clone https://github.com/GUPTA-SHAKEL/PREMIUM77.git
 ```python2
 $ cd GHOST
 $ git pull
-$ python2 Mark-Pro.py
+$ python2 MULTI.py
 ```
 #### :closed_lock_with_key: KEY PASSWORD ⁉️
 
