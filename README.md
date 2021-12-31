@@ -56,7 +56,7 @@ $ pip2 install mechanize lolcat
 $ pip2 install requests bs4
 $ pip2 install futures
 $ apt install git
-$ git clone https://github.com/GUPTA-SHAKEL/PREMIUM77.git
+$ git clone https://github.com/GUPTA-SHAKEL/GHOST.git
 ```
 #### RUN SCRIPT
 ```python2
